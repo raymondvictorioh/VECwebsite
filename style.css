@@ -72,6 +72,7 @@ img {
 @media only screen and (max-width: 992px) {
     #navbarNavDropdown {
         background-color: #ffc63d;
+        z-index: 999;
     }
 }
 
