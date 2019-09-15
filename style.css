@@ -69,6 +69,10 @@ img {
     color: #ffff !important;
 }
 
+#navbarNavDropdown {
+    background-color: #ffc63d;
+}
+
 /*-------------------------Banner------------------------------*/
 .main-heading {
     color: #ffffff;
