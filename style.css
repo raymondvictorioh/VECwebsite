@@ -69,8 +69,10 @@ img {
     color: #ffff !important;
 }
 
-#navbarNavDropdown {
-    background-color: #ffc63d;
+@media only screen and (max-width: 992px) {
+    #navbarNavDropdown {
+        background-color: #ffc63d;
+    }
 }
 
 /*-------------------------Banner------------------------------*/
