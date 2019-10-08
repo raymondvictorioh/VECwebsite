@@ -168,8 +168,10 @@ footer {
 }
 
 
-#why-vec-no-card{
-    display:none;
+@media only screen and (min-width: 450px) {
+    #why-vec-no-card{
+        display:none;
+    }
 }
 
 
