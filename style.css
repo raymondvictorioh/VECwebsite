@@ -92,9 +92,16 @@ img {
     font-size: 5vw !important;
 }
 
+
 @media only screen and (min-width: 768px) {
     .banner-text {
         font-size: 3.5rem !important;
+    }
+
+    .banner{
+        object-fit : cover;
+       width: auto;
+        height: 500px;
     }
 }
 
