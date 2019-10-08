@@ -167,6 +167,20 @@ footer {
     border-radius: 10px;
 }
 
+#why-vec-no-card{
+    display:none;
+}
+
+@media only screen and (max-width: 768px) {
+    #why-vec-no-card{
+        display:block;
+    }
+
+    #why-vec-card{
+        display:none;
+    }
+}
+
 /*-------------------------Courses------------------------------*/
 
 #courses .card-block {
