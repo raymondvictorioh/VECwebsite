@@ -93,6 +93,7 @@ img {
 }
 
 
+
 @media only screen and (max-width: 768px) {
     .banner-text {
         font-size: 3rem !important;
@@ -102,6 +103,10 @@ img {
         object-fit : cover;
        width: auto;
         height: 200px;
+    }
+
+    .home-banner-text{
+        font-size: 2rem;
     }
 }
 
